@@ -4,6 +4,7 @@ Sample Angular 2 project with notes and comments.
 
 It follows the quickstart from [angular.io](https://angular.io/docs/js/latest/quickstart.html).
 
+Push to master to see it running in [Heroku](https://lc-sample-angular2-quickstart.herokuapp.com/)
 
 ## Prerequisites
 
