@@ -13,4 +13,4 @@ It follows the quickstart from [angular.io](https://angular.io/docs/js/latest/qu
 
 - `package.json` has all dependencies and has small run/ build commands under scripts
 - `npm install` installs all the dependencies listed in `package.json`
-- 
+
