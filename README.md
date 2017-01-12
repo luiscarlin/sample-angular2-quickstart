@@ -10,6 +10,15 @@ Push to master to see it running in [Heroku](https://lc-sample-angular2-quicksta
 
 - npm
 
+## Run Locally
+
+```bash
+git clone sample-angular2-quickstart
+cd sample-angular2-quickstart
+
+npm install
+npm start
+```
 ## Notes
 
 - `package.json` has all dependencies and has small run/ build commands under scripts
